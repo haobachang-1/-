@@ -7,3 +7,4 @@ if (file_exists($flag_file)) {
     echo "flag 文件不存在";
 }
 ?>
+
